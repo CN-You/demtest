@@ -24,7 +24,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>QLExpress</artifactId>
-            <version>3.3.0</version>
+            <version>3.3.4</version>
         </dependency>
 
         <dependency>
